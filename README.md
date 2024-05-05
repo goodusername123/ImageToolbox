@@ -405,8 +405,8 @@ or click one of the badges below.
 
 #
 <picture>
-<source srcset="./fastlane/metadata/android/en-US/images/banner/banner2-lossy.webp" type="image/webp">
-<img src="./fastlane/metadata/android/en-US/images/banner/banner2.png" width="99%">
+<source srcset="./fastlane/metadata/android/en-US/images/banner/banner2-lossy.webp" type="image/webp" />
+<img src="./fastlane/metadata/android/en-US/images/banner/banner2.png" width="99%" />
 </picture>
 # 🌟 UI tweaks
 
